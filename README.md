@@ -7,12 +7,11 @@
 
 <hr>
 <p>
-- 🔭 I’m currently working on one game soundtrack
-- 🌱 I’m currently learning C#, C plus plus and stuff
-- 👯 I’m looking to collaborate on 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: 
-- ⚡ Fun fact: ...
+🔭 I’m currently working on soundtrack & sound disigne of one project
+🌱 I’m currently learning C#, C plus plus and stuff
+👯 I’m looking to collaborate with monkeys
+🤔 I’m looking for help with my wealth
+💬 Don't ask me how to reach me 
+📫 How to reach me: just ask me 
+⚡ Fun fact: 😄😄😄
 </p>
