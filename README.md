@@ -12,11 +12,11 @@
   <br> <b>Fun</b> fact: 😄😄😄
 </p>
 
-<h2>Чем я занимаюсь, черт побери:</h2>
+<h2>Чем я занимаюсь, черт побери</h2>
 <p>
   Sound disigne: работа в FL studio, Abletone и Studio One, но в основном FL studio(21)
-  <br> Работал над Dungeon Synth, Dark Ambient проектами по типу Silent Hill 
-  ![ea996abcb974cbe6f8f9b99198f582e8](https://github.com/user-attachments/assets/17f1f446-ce70-4d19-8d2a-3cc66434e614)
+  <br> Работал над Dungeon Synth, Dark Ambient проектами по типу Silent Hill и старых фентези игр
+  <br> Изучаю C# и С плайс плайс
 </p>
 <p>
   
