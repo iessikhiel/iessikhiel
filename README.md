@@ -12,17 +12,11 @@
   <br> <b>Fun</b> fact: 😄😄😄
 </p>
 
-<h2>Чем я занимаюсь, черт побери</h2>
+**Languages and Tools:**
+
 <p>
-  Sound disigne: работа в FL studio, Abletone и Studio One, но в основном FL studio(21)
-  <br> Работал над Dungeon Synth, Dark Ambient проектами по типу Silent Hill и старых фентези игр
-  <br> Изучаю C# и С плайс плайс
-</p>
-<p>
-  <img
-  src="C:\Users\user\Desktop\Projects\ea996abcb974cbe6f8f9b99198f582e8.jpeg"
-  alt="The head and torso of a dinosaur skeleton;
-          it has a large head with long sharp teeth"
-  width="400"
-  height="341" />
+<img src="https://github.com/blackcater/blackcater/raw/main/images/logo-javascript.svg" height="40" style="vertical-align:down; margin:4px" alt="javascript">
+<img src="https://github.com/blackcater/blackcater/raw/main/images/logo-typescript.svg" height="40" style="vertical-align:down; margin:4px" alt="typescript">
+<img src="https://github.com/blackcater/blackcater/raw/main/images/logo-nodejs.svg" height="40" style="vertical-align:down; margin:4px" alt="nodejs">
+<img src="https://github.com/blackcater/blackcater/raw/main/images/logo-golang.svg" height="40" style="vertical-align:down; margin:4px" alt="golang">
 </p>
