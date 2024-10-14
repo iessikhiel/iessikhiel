@@ -8,10 +8,10 @@
 <hr>
 <p>
 🔭 I’m currently working on soundtrack & sound disigne of one project
-🌱 I’m currently learning C#, C plus plus and stuff
-👯 I’m looking to collaborate with monkeys
-🤔 I’m looking for help with my wealth
-💬 Don't ask me how to reach me 
-📫 How to reach me: just ask me 
-⚡ Fun fact: 😄😄😄
+<br>🌱 I’m currently learning C#, C plus plus and stuff
+<br>👯 I’m looking to collaborate with monkeys
+<br>🤔 I’m looking for help with my wealth
+<br>💬 Don't ask me how to reach me 
+<br>📫 How to reach me: just ask me 
+<br>⚡ <b>Fun</b> fact: 😄😄😄
 </p>
