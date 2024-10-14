@@ -19,5 +19,10 @@
   <br> Изучаю C# и С плайс плайс
 </p>
 <p>
-  
+  <img
+  src="C:\Users\user\Desktop\Projects\ea996abcb974cbe6f8f9b99198f582e8.jpeg"
+  alt="The head and torso of a dinosaur skeleton;
+          it has a large head with long sharp teeth"
+  width="400"
+  height="341" />
 </p>
