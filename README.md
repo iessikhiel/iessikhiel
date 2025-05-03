@@ -10,3 +10,7 @@
 ...
 
 **Languages and Tools:**
+<p>
+  C++
+  C#
+</p>
