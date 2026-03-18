@@ -11,6 +11,7 @@
 
 **Languages and Tools:**
 <p>
-  C++
-  C#
+  JS
+  React
+  TypeScript
 </p>
